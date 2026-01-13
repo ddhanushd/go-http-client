@@ -1,0 +1,5 @@
+///
+/// @name request_bangalore
+///
+
+GET http://example.com/cities/Bangalore HTTP/1.1
